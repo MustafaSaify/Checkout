@@ -46,10 +46,12 @@ The app is architected using the MVVM Architecture following the SOLID principle
 
 - Unit Tests to be written.   
 
-
 ## Future Enhancements:
 
-- Better test coverage.
+- Write Tests and improve coverage.
 - Better UI for card expiry input.
 - Formatting card number as user enters.
+
+## Demo
+https://user-images.githubusercontent.com/5484993/198205748-a5f3895e-c339-4d72-b871-ed84e75c8bc1.mov
 
